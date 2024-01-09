@@ -19,7 +19,7 @@ Programa exclusivo e gratuito, do curso promovido pela Rocketseat para ensino de
 <br>
 
 <p align="center">
-  <img alt="projeto" src="projeto/.github/preview.jpg" width="100%">
+  <img alt="projeto" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
